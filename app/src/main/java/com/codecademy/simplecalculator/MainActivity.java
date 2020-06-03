@@ -1,3 +1,11 @@
+/***********************************************************
+ * Date Crated:   6/2/2020                                 *
+ * Created by:    Darius Holley                            *
+ * Project by:    Project worked through Codecademy Create *
+ *                apps with Android Studio                 *
+ ***********************************************************/
+
+
 package com.codecademy.simplecalculator;
 
 import android.os.Bundle;
