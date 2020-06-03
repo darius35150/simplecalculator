@@ -1,0 +1,4 @@
+#Tue Jun 02 21:52:45 CDT 2020
+base.0=/home/darius/AndroidStudioProjects/SimpleCalculator/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
